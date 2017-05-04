@@ -1,1 +1,1 @@
-this is  springmvc mybatis maven websocket  mina
+this is  springmvc mybatis maven websocket  mina shuangshi
